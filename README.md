@@ -1,2 +1,2 @@
 # black-hole
-Black hole simulator build with python. 
+Black hole simulator built with python. 
